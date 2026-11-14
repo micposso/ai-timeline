@@ -2,19 +2,32 @@
 
 ## Main app components
 
-- `Header` — site header, navigation, and CTA
-  - Internal `ArrowUpRight` SVG component
-- `Hero` — homepage hero section
-- `ProjectGrid` — selected work/project listing
-- `ProjectCard` — individual project card
-- `About` — services/about section
-- `Contact` — contact CTA section
-- `Footer` — site footer
+- `Timeline` — interactive, data-driven horizontal history of artificial intelligence
+  - Previous and next controls
+  - Keyboard arrow navigation
+  - Scrollable event rail
+  - Selected event detail panel
 
 ## App route/layout components
 
-- `Home` — homepage composition
-- `RootLayout` — root document layout
+- `Home` — timeline page composition and JSON data binding
+- `RootLayout` — root document and metadata
+
+## Data
+
+- `data/timeline.json` — title and event records for the timeline
+
+## Legacy studio components
+
+The original Mira Studio components remain in `components/` for reference and Storybook coverage, but are no longer composed by the homepage.
+
+- `Header` — original site header, navigation, and CTA
+- `Hero` — original homepage hero section
+- `ProjectGrid` — original selected work/project listing
+- `ProjectCard` — original individual project card
+- `About` — original services/about section
+- `Contact` — original contact CTA section
+- `Footer` — original minimal footer
 
 ## Storybook/demo components
 
@@ -24,5 +37,5 @@
 
 ## Summary
 
-- 12 exported React components
+- 13 exported React components, including `Timeline`
 - 1 internal helper component: `ArrowUpRight`

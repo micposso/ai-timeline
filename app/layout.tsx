@@ -13,9 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mira Studio — Independent Creative Studio",
-  description:
-    "An independent creative studio shaping warm brands, digital experiences, and thoughtful spaces.",
+  title: "History of Artificial Intelligence — A Visual Timeline",
+  description: "A visual timeline of the ideas, people, and milestones that shaped artificial intelligence.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

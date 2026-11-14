@@ -1,0 +1,140 @@
+{
+  "title": "History of Artificial Intelligence",
+  "events": [
+    {
+      "id": 1,
+      "date": "1950-10",
+      "year": 1950,
+      "title": "Alan Turing Proposes the Imitation Game",
+      "description": "Alan Turing publishes Computing Machinery and Intelligence, introducing the imitation game as a way to explore whether machines can demonstrate intelligent behavior.",
+      "category": "Foundations",
+      "people": ["Alan Turing"]
+    },
+    {
+      "id": 2,
+      "date": "1956",
+      "year": 1956,
+      "title": "Artificial Intelligence Becomes a Research Field",
+      "description": "The Dartmouth Summer Research Project brings researchers together to explore machine intelligence and helps establish artificial intelligence as a formal field of study.",
+      "category": "Foundations",
+      "people": ["John McCarthy", "Marvin Minsky", "Claude Shannon", "Nathaniel Rochester"]
+    },
+    {
+      "id": 3,
+      "date": "1958",
+      "year": 1958,
+      "title": "The Perceptron",
+      "description": "Frank Rosenblatt demonstrates the perceptron, an early neural network model designed to learn patterns from examples.",
+      "category": "Research",
+      "people": ["Frank Rosenblatt"]
+    },
+    {
+      "id": 4,
+      "date": "1966",
+      "year": 1966,
+      "title": "ELIZA Demonstrates Early Conversation",
+      "description": "Joseph Weizenbaum creates ELIZA, a computer program that simulates conversation using pattern matching and scripted responses.",
+      "category": "Applications",
+      "people": ["Joseph Weizenbaum"]
+    },
+    {
+      "id": 5,
+      "date": "1972",
+      "year": 1972,
+      "title": "MYCIN and Expert Systems",
+      "description": "Researchers at Stanford begin developing MYCIN, a rule-based system designed to assist with identifying bacterial infections and recommending antibiotic treatments.",
+      "category": "Applications",
+      "people": ["Edward Shortliffe"]
+    },
+    {
+      "id": 6,
+      "date": "1986",
+      "year": 1986,
+      "title": "Backpropagation Advances Neural Networks",
+      "description": "David Rumelhart, Geoffrey Hinton, and Ronald Williams publish influential research demonstrating how backpropagation can train multilayer neural networks.",
+      "category": "Research",
+      "people": ["David Rumelhart", "Geoffrey Hinton", "Ronald Williams"]
+    },
+    {
+      "id": 7,
+      "date": "1997-05",
+      "year": 1997,
+      "title": "Deep Blue Defeats Garry Kasparov",
+      "description": "IBM's Deep Blue defeats world chess champion Garry Kasparov in a six-game match, demonstrating the power of specialized computer systems in strategic decision-making.",
+      "category": "Applications",
+      "people": ["Garry Kasparov"]
+    },
+    {
+      "id": 8,
+      "date": "2009",
+      "year": 2009,
+      "title": "ImageNet Accelerates Computer Vision",
+      "description": "ImageNet provides a large labeled image dataset that becomes a major resource for training and evaluating computer vision systems.",
+      "category": "Research",
+      "people": ["Fei-Fei Li", "Jia Deng"]
+    },
+    {
+      "id": 9,
+      "date": "2012",
+      "year": 2012,
+      "title": "AlexNet Transforms Image Recognition",
+      "description": "AlexNet achieves a major improvement in the ImageNet competition, demonstrating the effectiveness of deep convolutional neural networks trained using GPUs.",
+      "category": "Research",
+      "people": ["Alex Krizhevsky", "Ilya Sutskever", "Geoffrey Hinton"]
+    },
+    {
+      "id": 10,
+      "date": "2016-03",
+      "year": 2016,
+      "title": "AlphaGo Defeats Lee Sedol",
+      "description": "Google DeepMind's AlphaGo defeats professional Go player Lee Sedol in a five-game match, demonstrating advances in deep learning and reinforcement learning.",
+      "category": "Applications",
+      "people": ["Lee Sedol"]
+    },
+    {
+      "id": 11,
+      "date": "2017",
+      "year": 2017,
+      "title": "The Transformer Architecture",
+      "description": "Researchers publish Attention Is All You Need, introducing the Transformer architecture that becomes foundational to many modern large language models.",
+      "category": "Research",
+      "people": ["Ashish Vaswani", "Noam Shazeer", "Niki Parmar"]
+    },
+    {
+      "id": 12,
+      "date": "2020-05",
+      "year": 2020,
+      "title": "GPT-3 Demonstrates Large-Scale Language Generation",
+      "description": "OpenAI introduces GPT-3, a large language model that demonstrates strong few-shot learning and text-generation capabilities.",
+      "category": "Generative AI",
+      "people": []
+    },
+    {
+      "id": 13,
+      "date": "2022-11-30",
+      "year": 2022,
+      "title": "ChatGPT Launches Publicly",
+      "description": "OpenAI releases ChatGPT as a research preview, making conversational generative AI widely accessible and prompting new debates about education, work, and trust.",
+      "category": "Generative AI",
+      "people": []
+    },
+    {
+      "id": 14,
+      "date": "2023-03-14",
+      "year": 2023,
+      "title": "GPT-4 Advances Multimodal AI",
+      "description": "OpenAI introduces GPT-4, a model capable of processing text and image inputs, demonstrating improved performance across many complex tasks.",
+      "category": "Generative AI",
+      "people": []
+    },
+    {
+      "id": 15,
+      "date": "2024-08-01",
+      "year": 2024,
+      "title": "The EU AI Act Enters Into Force",
+      "description": "The European Union's AI Act enters into force, establishing a risk-based regulatory framework for artificial intelligence, with requirements applying in phases.",
+      "category": "Governance",
+      "people": []
+    }
+  ]
+}
