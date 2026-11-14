@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: "/nexjs-design-responsive-nyit2026",
+  basePath: "/ai-timeline",
   images: {
     unoptimized: true,
   },
